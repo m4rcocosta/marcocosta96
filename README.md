@@ -6,4 +6,4 @@
 
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocosta96&count_private=true&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcocosta96&layout=compact&theme=transparent)
-![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcocosta)
+![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcocosta&theme=transparent)
