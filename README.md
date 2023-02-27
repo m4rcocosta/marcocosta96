@@ -13,4 +13,5 @@
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcocosta96&theme=transparent)
+
 ![Marco's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcocosta&theme=transparent)
