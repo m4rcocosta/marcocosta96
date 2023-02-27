@@ -4,4 +4,4 @@
 - 📫 How to reach me: https://www.marco-costa.it
 - ⚡ Coding activity: [![wakatime](https://wakatime.com/badge/user/4d90826d-493d-4766-988f-75cec92f3552.svg)](https://wakatime.com/@4d90826d-493d-4766-988f-75cec92f3552)
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcocosta96&show_icons=true&theme=radical)
